@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# PyCharm
+.idea/
+local_settings.py
+
+# VIM
+*~
